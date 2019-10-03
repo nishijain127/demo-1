@@ -1,5 +1,5 @@
 <?php
 
-echo "hello this is dev";
+echo "hello this is nishi";
 
 ?>
